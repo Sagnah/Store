@@ -1,7 +1,6 @@
 import React from 'react';
 import {StyleSheet, View,ScrollView} from 'react-native';
 import Box from './Box';
-import NavigationBottom from './NavigationBottom';
 import tasks from './data/tasks';
 
 
@@ -22,11 +21,9 @@ function MenuScreen() {
                     ))
                 }
             </View>
-
-            <NavigationBottom />
-
         </View>
         </ScrollView>
+        
     );
 }
 

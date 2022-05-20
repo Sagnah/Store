@@ -19,24 +19,7 @@ const tasks = [
     Title:"Corvette",
     image:"https://upload.wikimedia.org/wikipedia/commons/e/e5/Chevrolet_Corvette_C8_Stingray_blue.jpg",
     stock:1},
-    {id: 6, description: "Corvette",
-    Title:"Corvette",
-    image:"https://upload.wikimedia.org/wikipedia/commons/e/e5/Chevrolet_Corvette_C8_Stingray_blue.jpg",
-    stock:1},
-    {id: 7, description: "Corvette",
-    Title:"Corvette",
-    image:"https://upload.wikimedia.org/wikipedia/commons/e/e5/Chevrolet_Corvette_C8_Stingray_blue.jpg",
-    stock:1},
-    {id: 8, description: "Corvette",
-    Title:"Corvette",
-    image:"https://upload.wikimedia.org/wikipedia/commons/e/e5/Chevrolet_Corvette_C8_Stingray_blue.jpg",
-    stock:1},
-    {id: 9, description: "Corvette",
-    Title:"Corvette",
-    image:"https://upload.wikimedia.org/wikipedia/commons/e/e5/Chevrolet_Corvette_C8_Stingray_blue.jpg",
-    stock:1},
     
-
 ]
 
 export default tasks
